@@ -1,0 +1,11 @@
+# IDEs
+
+.idea
+.vscode
+
+# IO
+
+mentorship/input/*
+!mentorship/input/.gitkeep
+mentorship/output/*
+!mentorship/output/.gitkeep
